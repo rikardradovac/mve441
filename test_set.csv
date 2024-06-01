@@ -1,0 +1,6 @@
+,probabilities_Logistic Regression,predictions_Logistic Regression,probabilities_SVM with RBF Kernel,predictions_SVM with RBF Kernel,probabilities_SVM with Linear Kernel,predictions_SVM with Linear Kernel,probabilities_Random Forest,predictions_Random Forest,probabilities_k-NN,predictions_k-NN,correct,majority_correct,classes
+10,"['Perch', 'Roach']",Roach,"['Roach', 'Perch']",Roach,"['Roach', 'Perch']",Roach,"['Perch', 'Roach']",Roach,"['Perch', 'Roach']",Roach,Roach,True,"['Perch', 'Roach']"
+12,"['Perch', 'Roach']",Roach,"['Perch', 'Roach']",Roach,"['Perch', 'Roach']",Roach,"['Roach', 'Perch']",Perch,"['Perch', 'Roach']",Roach,Roach,True,"['Perch', 'Roach']"
+25,"['Perch', 'Roach']",Roach,"['Perch', 'Roach']",Roach,"['Perch', 'Roach']",Roach,"['Perch', 'Roach']",Roach,"['Perch', 'Roach']",Roach,Roach,True,"['Perch', 'Roach']"
+36,"['Bream', 'SilverBream']",SilverBream,"['Bream', 'SilverBream']",SilverBream,"['SilverBream', 'Bream']",SilverBream,"['SilverBream', 'Bream']",Bream,"['SilverBream', 'Bream']",Bream,SilverBream,False,"['Bream', 'SilverBream']"
+54,"['Bream', 'SilverBream']",SilverBream,"['Bream', 'SilverBream']",SilverBream,"['SilverBream', 'Bream']",SilverBream,"['SilverBream', 'Bream']",Bream,"['SilverBream', 'Bream']",Bream,SilverBream,False,"['Bream', 'SilverBream']"

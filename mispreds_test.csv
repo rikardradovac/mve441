@@ -1,0 +1,4 @@
+probabilities_Logistic Regression,probabilities_SVM with RBF Kernel,probabilities_SVM with Linear Kernel,probabilities_Random Forest,probabilities_Decision Tree,probabilities_k-NN,correct,prediction
+0.82,0.97,0.95,0.94,1.0,1.0,Smelt,Bream
+0.83,0.97,0.97,0.9,1.0,1.0,Perch,Bream
+0.91,0.9,0.99,0.87,1.0,1.0,SilverBream,Bream

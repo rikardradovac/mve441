@@ -1,0 +1,4 @@
+,probabilities_Logistic Regression,predictions_Logistic Regression,probabilities_SVM with RBF Kernel,predictions_SVM with RBF Kernel,probabilities_SVM with Linear Kernel,predictions_SVM with Linear Kernel,probabilities_Random Forest,predictions_Random Forest,probabilities_Decision Tree,predictions_Decision Tree,probabilities_k-NN,predictions_k-NN,correct
+287,0.8180655807742991,Bream,0.9705604617567096,Bream,0.9452587394111603,Bream,0.94,Bream,1.0,Bream,1.0,Bream,Smelt
+595,0.8303173318500501,Bream,0.9670671177162893,Bream,0.9707439732702691,Bream,0.9,Bream,1.0,Bream,1.0,Bream,Perch
+1273,0.9136302255987684,Bream,0.9033469265967901,Bream,0.9861415886019528,Bream,0.87,Bream,1.0,Bream,1.0,Bream,SilverBream
